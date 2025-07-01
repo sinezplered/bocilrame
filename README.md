@@ -1,2 +1,1 @@
-# bocilrame
-bocilrame
+# [bocilrame](https://bocilrame.pages.dev)
